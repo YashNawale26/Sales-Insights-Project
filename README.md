@@ -1,11 +1,46 @@
 ## Sales Insights Data Analysis Project
 
+## Overview
+Welcome to the Sales Insight project! This repository contains Tableau dashboards that provide insights into the revenue and profit analysis of a company. The primary aim of this project is to visualize key sales metrics and trends to help stakeholders make informed decisions.
+
+## Project Structure
+- **Revenue Analysis Dashboard**: This dashboard provides a comprehensive view of the company's revenue streams, including breakdowns by region, product, and time period.
+- **Profit Analysis Dashboard**: This dashboard focuses on the profitability of the company, highlighting profit margins, cost analysis, and profit trends over time.
+
+## Dashboards
+### 1. Revenue Analysis Dashboard
+![Revenue Analysis Dashboard](images/revenue_analysis.png)
+
+#### Key Features:
+- **Revenue Breakdown**: View revenue by region, product, and sales channel.
+- **Time Series Analysis**: Analyze revenue trends over different time periods (monthly, quarterly, yearly).
+- **Top Performers**: Identify top-performing products and regions.
+
+### 2. Profit Analysis Dashboard
+![Profit Analysis Dashboard](images/profit_analysis.png)
+
+#### Key Features:
+- **Profit Margins**: Understand profit margins across different segments.
+- **Cost Analysis**: Breakdown of costs associated with products and regions.
+- **Profit Trends**: Visualize profit trends and identify areas for improvement.
+
+## Installation
+To view and interact with the dashboards, you will need Tableau installed on your machine. If you don't have Tableau, you can download a free trial from [Tableau's official website](https://www.tableau.com/products/desktop).
+
+## Usage
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YashNawale26/Sales-Insights-Project-using-Tableau.git
+   
+2. Open Tableau and load the .twb files located in the dashboards directory.
+3. Explore the dashboards to gain insights into the company's sales and profitability.
+
 ### Instructions to setup mysql on your local computer
 
 1. Follow step in this video to install mysql on your local computer
 https://www.youtube.com/watch?v=WuBcTJnIuzo
 
-1. SQL database dump is in db_dump.sql file above. Download `db_dump.sql` file to your local computer and import it as per instructions given in the tutorial video
+1. SQL database dump is in db_dump.sql file above. Download `db_dump.sql` file to your local computer and import it.
 
 ### Data Analysis Using SQL
 
