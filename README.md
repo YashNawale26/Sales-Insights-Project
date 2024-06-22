@@ -9,7 +9,10 @@ Welcome to the Sales Insight project! This repository contains Tableau dashboard
 
 ## Dashboards
 ### 1. Revenue Analysis Dashboard
+`Tableau`
 ![Revenue Analysis Dashboard](images/revenue_analysis.png)
+`Power BI`
+![Revenue Analysis Dashboard](images/revenue_analysis_powerBI.png)
 
 #### Key Features:
 - **Revenue Breakdown**: View revenue by region, product, and sales channel.
@@ -17,6 +20,7 @@ Welcome to the Sales Insight project! This repository contains Tableau dashboard
 - **Top Performers**: Identify top-performing products and regions.
 
 ### 2. Profit Analysis Dashboard
+`Tableau`
 ![Profit Analysis Dashboard](images/profit_analysis.png)
 
 #### Key Features:
