@@ -1,4 +1,4 @@
-## Sales Insights Data Analysis Project
+# Sales Insights Data Analysis Project
 
 ## Overview
 Welcome to the Sales Insight project! This repository contains Tableau dashboards that provide insights into the revenue and profit analysis of a company. The primary aim of this project is to visualize key sales metrics and trends to help stakeholders make informed decisions.
